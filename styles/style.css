@@ -1,0 +1,38 @@
+body {
+    margin: auto;
+    max-width: 75% ;
+    background-color: rgb(183, 228, 247);
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h1 {
+    color: rgb(0, 0, 99);
+    margin: auto;
+}
+h2 {
+    color: rgb(0, 0, 138);
+}
+h3 {
+    color: rgb(0, 0, 138);
+}
+img {
+    margin: auto;
+}
+form div{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+form div label{
+    align-self: flex-start;
+}
+#navbar {
+    display: flex;
+    justify-content: center;
+}
+#navbar a{
+    margin-left: 5px;
+    margin-right: 5px;
+}
