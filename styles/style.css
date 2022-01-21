@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: auto;
     max-width: 75% ;
     background-color: rgb(183, 228, 247);
@@ -31,8 +31,9 @@ form div label{
 #navbar {
     display: flex;
     justify-content: center;
+    background-color: rgb(76, 188, 236);
 }
 #navbar a{
     margin-left: 5px;
     margin-right: 5px;
-}
+} */
